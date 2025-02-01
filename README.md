@@ -20,7 +20,7 @@ pip install poetry
 
 2. Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/password-manager.git
+git clone https://github.com/huelight/password-cli.git
 cd password-manager
 poetry install
 ```
