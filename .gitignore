@@ -3,3 +3,4 @@ __pycache__/
 *$py.
 
 poetry.lock
+passwords.db
